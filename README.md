@@ -19,6 +19,6 @@ sh
 Copiar código
 python -m unittest test.py
 
-🛠 Tecnologías utilizadas
-Python 🐍
+Tecnologías utilizadas
+Python 
 Unittest para pruebas automatizadas
